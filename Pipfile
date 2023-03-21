@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+comma = "*"
+dateparser = "*"
+ipykernel = "*"
+pylast = "*"
+python-dotenv = "*"
+tqdm = "*"
+wordcloud = "*"
+pywaffle = "*"
+calmap = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
